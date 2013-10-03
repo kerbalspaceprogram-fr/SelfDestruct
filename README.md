@@ -1,7 +1,7 @@
 SelfDestruct
 ============
 
-ParModule d'auto-destruction
+PartModule d'auto-destruction
 
 Références à importer :
 - Assembly-CSharp.dll
